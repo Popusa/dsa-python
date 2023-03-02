@@ -1,2 +1,3 @@
 # dsa_py
-This is my journey through the world of data structures and algorithms using python.
+
+I am following a youtube video series that covers a handfull of data structures, and algorithms using python. The files will be uploaded here on this repo, as well as all the exercises that will be solved.
